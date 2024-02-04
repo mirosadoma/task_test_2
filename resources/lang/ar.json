@@ -1,0 +1,11 @@
+{
+    "Name": "الإسم",
+    "Email": "البريد الإلكترونى",
+    "Password": "الرقم السرى",
+    "Password Confirmation": "تأكيد كلمة المرور الجديدة",
+    "Title": "العنوان",
+    "Description": "الوصف",
+    "Phone Number": "رقم الهاتف",
+    "Image": "الصوره",
+    "Post Not Found": "البوست غير موجود"
+}
